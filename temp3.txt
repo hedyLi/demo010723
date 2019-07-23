@@ -1,2 +1,6 @@
 temp3
+ 
 我在master修改了temp3
+ 
+在dev分支中也修改temp3
+ 
